@@ -1,0 +1,1091 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" name="Default" comment="" />
+    <ignored path="nodescala.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386275024069" ignored="false" />
+    <file path="/fragment.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386261020489" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-bank/src/main/java/org/finplan/RecommendationService.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1385677901404" ignored="false" />
+    <file path="/RecommendationService.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386020129869" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-bank/src/main/java/org/finplan/BankService.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1385447151862" ignored="false" />
+    <file path="/BankService.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386020936247" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-android-ui/src/main/java/org/finplan/ui/Calendar.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386107545287" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-domain/src/main/java/org/finplan/domain/BudgetPlan.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1385447177375" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-android-ui/src/main/java/org/finplan/ui/newTransaction.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386102780811" ignored="false" />
+    <file path="/BudgetPlan.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1385445350198" ignored="false" />
+    <file path="/newTransaction.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1385966711743" ignored="false" />
+    <file path="/package.scala" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386262849185" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-domain/src/main/java/org/finplan/domain/Credit.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386021704271" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-domain/src/main/java/org/finplan/domain/FinancialInstrument.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386021662901" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-android-ui/src/main/java/org/finplan/ui/Deposits.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386142338768" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-android-ui/AndroidManifest.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386102780811" ignored="false" />
+    <file path="/Calendar.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386104333857" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-bank/src/main/java/spring-config.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1385942047323" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-bank/pom.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1385942064529" ignored="false" />
+    <file path="/pom.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386247071699" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-android-ui/src/main/java/org/finplan/ui/service/RecommendationService.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386020152100" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-android-ui/src/main/java/org/finplan/ui/service/TwitterRestClient.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1385965690987" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-android-ui/src/main/java/org/finplan/ui/service/BankRestClient.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386020046358" ignored="false" />
+    <file path="/BankRestClient.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386019911741" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-bank-api/src/main/java/BankService.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1385967088851" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-android-ui/src/main/java/org/finplan/ui/service/BankService.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386020954648" ignored="false" />
+    <file path="/Deposits.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386141079558" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-android-ui/src/main/java/org/finplan/ui/service/ClientData.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386142338768" ignored="false" />
+    <file path="/ClientData.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386020470680" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-bank-api/pom.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1385967088851" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-bank-api/src/test/java/org.finplan/RecommendationServiceTest.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1385967088851" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-bank-api/src/main/webapp/index.jsp" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1385967088851" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-bank-api/src/main/webapp/WEB-INF/web.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1385967088851" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-bank-server/src/main/java/org/finplan/BankService.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386026249999" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/.idea/compiler.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1385967526483" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-bank-server/src/main/webapp/index.jsp" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1385967567081" ignored="false" />
+    <file path="/index.jsp" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1385967567081" ignored="false" />
+    <file path="/FinancialInstrument.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386015781717" ignored="false" />
+    <file path="/Credit.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386016044360" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-domain/src/main/java/org/finplan/domain/Deposit.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386015975508" ignored="false" />
+    <file path="/Deposit.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386015950291" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-domain/src/main/java/org/finplan/domain/AvailableFinantialInstruments.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386023005032" ignored="false" />
+    <file path="/AvailableFinantialInstruments.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386023004043" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-android-ui/src/main/java/org/finplan/ui/service/RestClient.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386102780811" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-android-ui/src/main/java/org/finplan/ui/service/BankData.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386142338768" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-android-ui/src/main/java/org/finplan/ui/service/Recommendation.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386140785085" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-bank-server/src/main/java/org/finplan/BalanceServlet.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386102780811" ignored="false" />
+    <file path="/BalanceServlet.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386025404531" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-bank-server/src/main/java/org/finplan/BankServlet.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386139844382" ignored="false" />
+    <file path="/BankServlet.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386139842865" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-domain/src/main/java/org/finplan/domain/AvailableFinanсialInstruments.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386102780811" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-bank-server/src/main/webapp/WEB-INF/web.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386023268968" ignored="false" />
+    <file path="/web.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386023209779" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-domain/finplan-domain.iml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386025983798" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-bank-server/src/main/finplan-bank-server.iml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386026339817" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/.idea/artifacts/finplan_bank_server_Web_exploded.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386026105480" ignored="false" />
+    <file path="/finplan_bank_server_Web_archive.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386026119848" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-android-ui/res/layout/calendar.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386026249999" ignored="false" />
+    <file path="/Recommendation.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386140783383" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-android-ui/src/main/java/org/finplan/ui/Start.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386102780811" ignored="false" />
+    <file path="/Start.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386051284002" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-android-ui/src/main/java/org/finplan/ui/service/Utils.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386053445959" ignored="false" />
+    <file path="/Utils.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386053444426" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-domain/src/main/java/org/finplan/domain/Utils.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386053478632" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-domain/src/main/java/org/finplan/domain/FinancialPlan.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386140740032" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-android-ui/finplan-android-ui.iml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386102780498" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-domain/src/main/java/org/finplan/domain/BankService.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386142338768" ignored="false" />
+    <file path="/BankData.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386103362332" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-domain/src/main/java/org/finplan/domain/DateTimeUtils.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386106294514" ignored="false" />
+    <file path="/DateTimeUtils.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386106271349" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-android-ui/res/layout/deposits.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386142338768" ignored="false" />
+    <file path="/FinancialPlan.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386140722920" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-domain/src/main/java/org/finplan/domain/Range.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386142157227" ignored="false" />
+    <file path="/Range.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386142152466" ignored="false" />
+    <file path="$USER_HOME$/Workspace/finplan/finplan-domain/src/main/java/org/finplan/domain/AmountRange.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386140693228" ignored="false" />
+    <file path="/AmountRange.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386140692516" ignored="false" />
+    <file path="/nodescala.scala" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386320487390" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/test/java/com/swissquote/eforex/daemons/orc/acceptance/TestUtils.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386250513426" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/pom.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386247597018" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/test/resources/application/orchestrator/orchestrator-at-context.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/pom.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orca/src/main/resources/web-da-context.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orca/pom.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/fxc/impl/service/impl/AcmTransactionValidatorImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386248390100" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/fxc/impl/service/impl/AcmTransaction2ControllingTransactionConverter.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386248390100" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orca/src/main/java/com/swissquote/eforex/fxc/web/controller/RequesterController.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/fxc/impl/service/impl/ClientSearcherImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386248390100" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orca/src/main/java/com/swissquote/eforex/fxc/web/controller/OpenPositionsReportingController.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/fxc/impl/service/impl/ControllingTransactionsUploaderImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386248390100" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orca/src/main/java/com/swissquote/eforex/fxc/web/controller/PrimeBrokerTradesSwapController.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/fxc/impl/service/impl/resolutors/DuplicatePositionsResolverImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386248390100" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orca/src/main/java/com/swissquote/eforex/fxc/web/controller/PrimeBrokersTradesController.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/fxc/impl/service/impl/resolutors/DuplicateTransactionResolverImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386248390100" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orca/src/main/java/com/swissquote/eforex/fxc/web/controller/OrchestratorController.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/extractors/sqe-controlling-commons-fxc/src/test/resources/spring-test-context.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/test/java/com/swissquote/eforex/daemons/orc/acceptance/MultiDayExecution_AT.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/test/java/com/swissquote/eforex/daemons/orc/acceptance/SingleDayExecution_AT.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orca/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orca/src/main/webapp/WEB-INF/web.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/impl/DailyExecutionGraphServiceImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/impl/OrchestratorImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386248390100" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/impl/WorkerConfigStorageImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/impl/BusinessServiceStorageImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/impl/RootBusinessService.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/impl/JobStatusServiceImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/configs/ScheduledWorkerConfig.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/libs/dao-controlling/src/main/resources/fxc-dao-context.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orca/src/main/resources/web-services-context.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orca/src/main/resources/spring-web-context.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/extractors/fxbook/dao/impl/ReevalRateHistoDaoImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/extractors/fxbook/dao/impl/PositionRealtimeDaoImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/extractors/fxbook/dao/impl/TransactionDetailsDaoImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/extractors/fxbook/dao/impl/ClosedPositionDaoImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/extractors/fxbook/dao/impl/RollAndPlDaoImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/libs/dao-controlling/src/test/resources/spring-test-context.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/extractors/fxbook/dao/impl/EodTransactionDaoImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/test/resources/spring-test-context.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/libs/test-controlling/pom.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/test/resources/spring-acm-test-context.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/test/resources/graph-test-context.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/test/resources/producer-test-context.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/extractors/fxbook/service/impl/ControllingEndOfDayPositionServiceImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/extractors/fxbook/service/impl/EodTransactionServiceImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/extractors/fxbook/service/impl/AcmRollAndPlServiceImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/extractors/fxbook/service/impl/RollAndPlServiceImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/extractors/fxbook/service/impl/AcmSqClientMappingServiceImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/extractors/fxbook/service/impl/ControllingReevalRatesServiceImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/extractors/fxbook/service/impl/AcmMarketAndTradesServiceImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/extractors/fxbook/service/impl/ControllingClientRolloverServiceImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/extractors/fxbook/service/impl/ReevalRateServiceImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/extractors/fxbook/service/impl/ControllingClientProfitAndLossServiceImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/extractors/fxbook/service/impl/PositionRealTimeServiceImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/extractors/fxbook/service/impl/ControllingDailyExecutionServiceImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/extractors/fxbook/service/impl/TransactionDetailsServiceImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/extractors/fxbook/service/impl/ControllingTransactionDetailsServiceImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386248390100" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/test/resources/application/orchestrator/single_automatic_processing_1.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/extractors/fxbook/service/impl/ClosedPositionServiceImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/test/resources/application/orchestrator/single_automatic_processing_6.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/test/resources/application/orchestrator/single_automatic_processing_2.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/test/resources/application/orchestrator/single_automatic_processing_7.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/test/resources/application/orchestrator/single_automatic_processing_3.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/test/resources/application/orchestrator/multi_day_processing.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/test/resources/application/orchestrator/single_automatic_processing_4.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orca/src/test/resources/spring-acceptance-test-context.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/test/resources/application/orchestrator/single_automatic_processing_5.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/extractors/fxbook/extractor/swap/SwapAutoService.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386248390100" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/extractors/fxbook/extractor/trades/TransactionDetailsExtractorService.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/extractors/fxbook/extractor/trades/TransactionsDetailsDuplicatesResolutionStrategy.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/libs/db-controlling/pom.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/extractors/fxbook/extractor/trades/strategy/FxBookExtractorStrategy.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/extractors/fxbook/extractor/trades/strategy/BBookExtractorStrategy.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/extractors/fxbook/extractor/trades/strategy/ABookExtractorStrategy.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/extractors/fxbook/extractor/position/FxBookPositionsService.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/extractors/fxbook/extractor/rollAndPl/FxBookRolloverService.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/extractors/fxbook/extractor/rollAndPl/FxBookPnlService.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/libs/domain-controlling/pom.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/extractors/fxbook/extractor/rollAndPl/FxBookRollAndPnlService.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/extractors/fxbook/extractor/pbposition/PrimeBrokerPositionService.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/libs/db-controlling/src/main/java/com/swissquote/eforex/da/mapping/fxc/DailyExecutionStatus.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/extractors/fxbook/extractor/reevalRates/ReevalRateService.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/libs/db-controlling/src/main/java/com/swissquote/eforex/da/mapping/fxc/MappedControllingDailyExecution.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/extractors/fxbook/extractor/reevalRates/SyntheticRateCalculator.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/extractors/fxbook/extractor/reevalRates/CHFCurrencyFilter.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/extractors/fxbook/extractor/reevalRates/ReevalRate2ControllingTransformFunction.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/extractors/fxbook/extractor/acmRollAndPl/AcmRollService.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/extractors/fxbook/extractor/acmRollAndPl/AcmRollAndPnlService.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/acm-api/pom.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386247446548" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/extractors/fxbook/extractor/acmRollAndPl/AcmPnlService.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/extractors/fxbook/extractor/unrealizedPnl/UnrealizedPnlService.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/extractors/fxbook/postExtraction/abook_mkt/ABookMktService.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386248390100" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/resources/graph-config.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/resources/jms-config.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386248390100" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/resources/acm-service-context.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386248390100" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/resources/rmi-config.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/resources/acm-tm-context.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386248390100" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/resources/acm-dao-context.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386248390100" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/libs/db-controlling/src/main/resources/fxc-da-context-embedded.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/libs/db-controlling/src/main/resources/fxc-da-context.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/resources/quartz-beans.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/libs/db-controlling/src/main/resources/fxc-tm-context.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/libs/db-controlling/src/main/resources/META-INF/sq-persistence.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/pom.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/resources/spring/spring-jms-server-context.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386248390100" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/resources/spring/applicationContext-batch-common.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386248390100" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/resources/spring/spring-jms-properties-context.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386248390100" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/resources/spring/batch-da-context.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/api/pom.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612007" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/resources/application/orchestrator/applicationContext-orchestrator.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386248390100" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/resources/application/fxbook-extractor/applicationContext-unrealizedPnl.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/resources/application/fxbook-extractor/applicationContext-rollAndPl.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/extractors/sqe-controlling-commons-fxc/pom.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/resources/application/fxbook-extractor/applicationContext-reevalRates.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/resources/application/fxbook-extractor/applicationContext-swap.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/resources/application/fxbook-extractor/applicationContext-positions.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/resources/application/fxbook-extractor/applicationContext-abookMkt.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386248390100" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/resources/application/fxbook-extractor/applicationContext-pbpositions.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612006" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/resources/application/fxbook-extractor/applicationContext-acmRollAndPl.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386248390100" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/resources/application/fxbook-extractor/applicationContext-fxbook.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612007" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orca/src/main/java/com/swissquote/eforex/fxc/web/service/impl/PrimeBrokerTransactionParserFactoryImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612007" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orca/src/main/java/com/swissquote/eforex/fxc/web/service/impl/DisplayInstrumentServiceImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612007" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/fxc/impl/PositionReplicationServiceImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386248390100" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orca/src/main/java/com/swissquote/eforex/fxc/web/service/impl/ControllingPrimeBrokerTransactionUploaderImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612007" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/fxc/impl/TransactionReplicationServiceImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386248390100" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orca/src/main/java/com/swissquote/eforex/fxc/web/service/impl/PrimeBrokerDataProcessorImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612007" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/test/java/com/swissquote/eforex/fxc/dao/impl/AcmRollAndPlDaoImplTest.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612007" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orca/src/main/java/com/swissquote/eforex/fxc/web/service/impl/parsers/JpmCSVParserImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612007" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orca/src/main/java/com/swissquote/eforex/fxc/web/service/impl/parsers/DbHTMLParserImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612007" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orca/src/main/java/com/swissquote/eforex/fxc/web/service/impl/resolutors/DBDuplicateTransactionResolutionStrategy.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612007" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/extractors/sqe-controlling-commons-fxc/src/main/java/com/swissquote/eforex/fxc/commons/service/impl/ControllingPrimeBrokerTransactionServiceImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612007" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orca/src/main/java/com/swissquote/eforex/fxc/web/service/impl/resolutors/JPMDuplicateTransactionResolutionStrategy.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612007" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/extractors/sqe-controlling-commons-fxc/src/main/java/com/swissquote/eforex/fxc/commons/service/impl/ControllingPrimeBrokerPositionServiceImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612007" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/extractors/sqe-controlling-commons-fxc/src/main/java/com/swissquote/eforex/fxc/commons/service/impl/PrimeBrokerPositionUpdateServiceImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612007" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/extractors/sqe-controlling-commons-fxc/src/main/java/com/swissquote/eforex/fxc/commons/service/impl/PrimeBrokerPositionStatusServiceImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612007" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/libs/dao-controlling/pom.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612007" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orca/src/main/java/com/swissquote/eforex/fxc/web/service/swap/impl/PrimeBrokerTransactionSwapsServiceImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612007" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orca/src/main/java/com/swissquote/eforex/fxc/web/service/swap/impl/PrimeBrokerTransaction2SwapRowDataTransformFunction.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612007" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/extractors/sqe-controlling-commons-fxc/src/main/java/com/swissquote/eforex/fxc/commons/service/impl/ValueDateCalendarServiceImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612007" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/fxc/impl/config/acm/AcmConstants.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612007" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/extractors/sqe-controlling-commons-fxc/src/main/resources/commons-dao-fxb-context.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612007" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orca/src/main/java/com/swissquote/eforex/fxc/web/service/toRemove/impl/DBRequesterImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612007" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/extractors/sqe-controlling-commons-fxc/src/main/resources/commons-dao-b2b-context.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612007" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/extractors/sqe-controlling-commons-fxc/src/main/resources/commons-service-context.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612007" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orca/src/main/java/com/swissquote/eforex/fxc/web/service/positions/impl/EodPositionsServiceImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612007" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orca/src/main/java/com/swissquote/eforex/fxc/web/service/orchestrator/FailOverRmiProxyFactoryBean.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386246612007" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/api/sqe-daemons-orc-api.iml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386247187986" ignored="false" />
+    <file path="$USER_HOME$/project/fx-controlling/orc/app/src/main/java/com/swissquote/eforex/daemons/orc/extractors/fxbook/service/impl/ControllingClientReconciliationServiceImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386250524600" ignored="false" />
+    <file path="$USER_HOME$/Workspace/subsync/src/org/lit/subSync/server/aligner/MPlayerRunner.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386280877709" ignored="false" />
+    <file path="$USER_HOME$/Workspace/subsync/src/org/lit/subSync/server/aligner/SubtitleExtractor.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386280877709" ignored="false" />
+    <file path="$USER_HOME$/Workspace/subsync/src/org/lit/subSync/server/aligner/SubtitleProcessing.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386280877709" ignored="false" />
+    <file path="$USER_HOME$/Workspace/subsync/src/org/lit/subSync/server/aligner/Aligner.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386283249157" ignored="false" />
+    <file path="$USER_HOME$/Workspace/subsync/src/org/lit/subSync/server/aligner/AlignerSubtitles.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386280860144" ignored="false" />
+    <file path="/Aligner.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386283227082" ignored="false" />
+    <file path="$USER_HOME$/Workspace/subsync/src/org/lit/subSync/server/aligner/AlignerDemo.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386280877709" ignored="false" />
+    <file path="$USER_HOME$/Workspace/subsync/src/org/lit/subSync/server/aligner/config/aligner.xml" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386280877709" ignored="false" />
+    <file path="$USER_HOME$/Workspace/subsync/war/WEB-INF/classes/subsync.properties" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386281781611" ignored="false" />
+    <file path="/SubSyncServiceImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386283363670" ignored="false" />
+    <file path="$USER_HOME$/Workspace/subsync/src/org/lit/subSync/server/SubSyncServiceImpl.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386283374861" ignored="false" />
+    <file path="$USER_HOME$/Workspace/subsync/src/org/lit/subSync/server/SubsyncData.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386283327422" ignored="false" />
+    <file path="/SubsyncData.java" changelist="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" time="1386283319346" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/src/main/scala/nodescala/nodescala.scala" line="159" class="nodescala.NodeScala.Listener" package="nodescala">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="nodescala" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="package.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/nodescala/package.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="189" column="9" selection-start="6040" selection-end="6040" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nodescala.scala" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/nodescala/nodescala.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="45" column="41" selection-start="1574" selection-end="1574" vertical-scroll-proportion="0.740944">
+              <folding>
+                <element signature="e#19#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/scala/nodescala/package.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/nodescala/nodescala.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1855" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodescala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodescala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodescala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodescala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodescala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodescala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodescala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodescala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodescala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="package.scala" />
+              <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodescala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodescala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodescala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodescala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nodescala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="package.scala" />
+              <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="org.jetbrains.plugins.scala.compiler.ScalaApplicationSettingsForm" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="last_opened_file_path" value="/softwares/scala-2.10.3/src/scalap-src.jar!/" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RunManager" selected="ScalaTest.NodeScalaSuite">
+    <configuration default="false" name="NodeScalaSuite" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="nodescala.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="scalaCoverage" />
+      <module name="progfun-nodescala" />
+      <setting name="path" value="nodescala.NodeScalaSuite" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="NodeScalaSuite.A Future should always be created" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="nodescala.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="scalaCoverage" />
+      <module name="progfun-nodescala" />
+      <setting name="path" value="nodescala.NodeScalaSuite" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="A Future should always be created" />
+      <setting name="testKind" value="Test name" />
+      <setting name="showProgressMessages" value="true" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="NodeScalaSuite.A Future should never be created" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="nodescala.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="scalaCoverage" />
+      <module name="progfun-nodescala" />
+      <setting name="path" value="nodescala.NodeScalaSuite" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="A Future should never be created" />
+      <setting name="testKind" value="Test name" />
+      <setting name="showProgressMessages" value="true" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="NodeScalaSuite.CancellationTokenSource should allow stopping the computation" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="nodescala.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="scalaCoverage" />
+      <module name="progfun-nodescala" />
+      <setting name="path" value="nodescala.NodeScalaSuite" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="CancellationTokenSource should allow stopping the computation" />
+      <setting name="testKind" value="Test name" />
+      <setting name="showProgressMessages" value="true" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="NodeScalaSuite.Server should serve requests" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="nodescala.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="scalaCoverage" />
+      <module name="progfun-nodescala" />
+      <setting name="path" value="nodescala.NodeScalaSuite" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="Server should serve requests" />
+      <setting name="testKind" value="Test name" />
+      <setting name="showProgressMessages" value="true" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="ScalaTest.NodeScalaSuite" />
+      <item index="1" class="java.lang.String" itemvalue="ScalaTest.NodeScalaSuite.A Future should always be created" />
+      <item index="2" class="java.lang.String" itemvalue="ScalaTest.NodeScalaSuite.A Future should never be created" />
+      <item index="3" class="java.lang.String" itemvalue="ScalaTest.NodeScalaSuite.CancellationTokenSource should allow stopping the computation" />
+      <item index="4" class="java.lang.String" itemvalue="ScalaTest.NodeScalaSuite.Server should serve requests" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="ScalaTest.NodeScalaSuite" />
+        <item index="1" class="java.lang.String" itemvalue="ScalaTest.NodeScalaSuite.Server should serve requests" />
+        <item index="2" class="java.lang.String" itemvalue="ScalaTest.NodeScalaSuite.CancellationTokenSource should allow stopping the computation" />
+        <item index="3" class="java.lang.String" itemvalue="ScalaTest.NodeScalaSuite.A Future should never be created" />
+        <item index="4" class="java.lang.String" itemvalue="ScalaTest.NodeScalaSuite.A Future should always be created" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e06ca1e3-7d4a-4c05-a136-f2b052d6a1d1" name="Default" comment="" />
+      <created>1384981155349</created>
+      <updated>1384981155349</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3989432" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20342731" sideWeight="0.6659552" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3340448" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2498618" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///softwares/scala-2.10.3/src/scala-library-src.jar!/scala/Console.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="34" selection-start="2769" selection-end="2769" vertical-scroll-proportion="0.33260155" />
+      </provider>
+    </entry>
+    <entry file="jar:///softwares/scala-2.10.3/src/scala-library-src.jar!/scala/Predef.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="290" column="57" selection-start="13948" selection-end="13948" vertical-scroll-proportion="0.33296213" />
+      </provider>
+    </entry>
+    <entry file="jar:///softwares/scala-2.10.3/src/scala-library-src.jar!/scala/concurrent/Promise.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="140" column="6" selection-start="4625" selection-end="4625" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib_managed/jars/org.scalatest/scalatest_2.10/scalatest_2.10-1.9.1.jar!/org/scalatest/Assertions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="0" selection-start="2472" selection-end="2472" vertical-scroll-proportion="0.7540395" />
+      </provider>
+    </entry>
+    <entry file="jar:///softwares/scala-2.10.3/src/scala-library-src.jar!/scala/concurrent/Future.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="232" column="6" selection-start="8514" selection-end="8514" vertical-scroll-proportion="0.73613447" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib_managed/jars/org.scalatest/scalatest_2.10/scalatest_2.10-1.9.1.jar!/org/scalatest/run.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="7" selection-start="29" selection-end="29" vertical-scroll-proportion="0.026929982" />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib_managed/jars/net.databinder.dispatch/dispatch-core_2.10/dispatch-core_2.10-0.11.0.jar!/dispatch/retry/Success.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="7" selection-start="124" selection-end="124" vertical-scroll-proportion="-1.8" />
+      </provider>
+    </entry>
+    <entry file="jar:///softwares/scala-2.10.3/src/scala-library-src.jar!/scala/util/Try.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="146" column="16" selection-start="5932" selection-end="5932" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="jar:///softwares/scala-2.10.3/src/scala-library-src.jar!/scala/concurrent/duration/Duration.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="362" column="22" selection-start="15599" selection-end="15599" vertical-scroll-proportion="7.416435" />
+      </provider>
+    </entry>
+    <entry file="jar:///softwares/scala-2.10.3/src/scala-library-src.jar!/scala/concurrent/duration/DurationConversions.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="6" selection-start="1285" selection-end="1285" vertical-scroll-proportion="0.33242133" />
+      </provider>
+    </entry>
+    <entry file="jar:///softwares/scala-2.10.3/src/scala-library-src.jar!/scala/collection/Iterator.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="726" column="6" selection-start="28778" selection-end="28778" vertical-scroll-proportion="0.7017784" />
+      </provider>
+    </entry>
+    <entry file="jar:///softwares/scala-2.10.3/src/scala-library-src.jar!/scala/languageFeature.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="9" selection-start="318" selection-end="318" vertical-scroll-proportion="0.025157232" />
+      </provider>
+    </entry>
+    <entry file="jar:///softwares/scala-2.10.3/src/scala-library-src.jar!/scala/language.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="64" selection-start="2561" selection-end="2561" vertical-scroll-proportion="0.33333334" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/nodescala/tests.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="189" selection-end="223" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/nodescala/package.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="189" column="9" selection-start="6040" selection-end="6040" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/nodescala/nodescala.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="41" selection-start="1574" selection-end="1574" vertical-scroll-proportion="0.740944">
+          <folding>
+            <element signature="e#19#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Scala</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>progfun-nodescala</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

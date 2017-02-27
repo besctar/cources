@@ -1,0 +1,34 @@
+### Java
+*.class
+*.war
+*.ear
+target/
+
+# virtual machine crash logs
+hs_err_pid*
+
+### IDE
+.idea/
+*.iml
+
+### OS specific
+.DS_Store
+
+### SCSS cash
+/markup/.sass-cache
+/markup/style.css
+
+### Node modules
+/client/src/main/resources/public/node_modules
+/visalex-client/src/main/resources/public/
+/visalex-client/visalex-client-web/src/main/resources/public/node_modules
+/visalex-client/src/main/resources/templates/layout.html
+npm-debug.log
+
+*.zip
+frontend/
+/visalex-attorney/visalex-attorney-web/target/
+node_modules/
+/.project
+
+xero-java-client/xero-client/src/main/java/com/connectifier/xeroclient/models

@@ -1,0 +1,1 @@
+copy inside a test scala project
